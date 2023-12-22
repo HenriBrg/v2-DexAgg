@@ -1,9 +1,12 @@
 ODAx is an on-chain DEX Aggregator on Starknet Goerli.  
-  
+
+![alt text](draft.excalidraw.png "Schema")
+
 Since there is not many DEXes with available documentation for the moment on StarkNet we are only JEDISWAP and STARKSWAP.  
   
 📜 Deployed contract : https://goerli.voyager.online/contract/0x0169bd4420670f6bf0c644bb0c1ae43c1c8b12e7f149908c758b786d776e722e#writeContract  
   
+
 ### Contact  
   
 Mersona
