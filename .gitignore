@@ -1,7 +1,7 @@
 node_modules
 cache
 artifacts
-# .env
+.env
 typechain
 typechain-types
 coverage
@@ -10,3 +10,4 @@ yarn.lock
 package-lock.json
 .env
 starknet-artifacts
+.env.old
