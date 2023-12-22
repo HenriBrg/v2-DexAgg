@@ -2,15 +2,12 @@ ODAx is an on-chain DEX Aggregator on Starknet Goerli.
   
 Since there is not many DEXes with available documentation for the moment on StarkNet we are only JEDISWAP and STARKSWAP.  
   
-📹 Video presentation : https://www.loom.com/share/4aa2b9ce9dbf4ec2badbb0b677c91e16  
 📜 Deployed contract : https://goerli.voyager.online/contract/0x0169bd4420670f6bf0c644bb0c1ae43c1c8b12e7f149908c758b786d776e722e#writeContract  
-  
   
 ### Contact  
   
-Henri Berger  
+Mersona
 Telegram: MersonaX  
-Mail: hberger@coinshares.com  
   
 ### Why ODAx ?  
   
@@ -58,7 +55,6 @@ Env variable are commited so no need to configure them (don't abuse my private k
   
     Starknet  
     🔑 env.account        :  0x059E1CbdD07823aeB9DA52cb7BE4102C9012cbe9AB05349EB2bCE7cb7103a3B2  
-    🔑 env.account pKey   :  286924204142771639435557759619532125609016188385690265174806257430593456391  
     👨‍💻 account.address    :  0x059e1cbdd07823aeb9da52cb7be4102c9012cbe9ab05349eb2bce7cb7103a3b2  
     ✔ should connect to an existing Argent account  
     Compiling /Users/henri/Desktop/CoinShares/StarknetODA/contracts/router.cairo  
