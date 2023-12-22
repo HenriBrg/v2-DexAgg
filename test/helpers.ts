@@ -19,6 +19,7 @@ export type ExpectedEnvType = NodeJS.ProcessEnv & {
     STARKNET_MAINNET_ACCOUNT_PRIVATE_KEY: string;
 };
 
+// Need to split this file
 
 export interface PairData {
     reserve0: BN;
