@@ -21,6 +21,7 @@ from starkware.starknet.common.syscalls import (
 
 from contracts.ownable import Ownable
 
+// Update to Cairo 1.0
 
 from contracts.erc20.IERC20 import IERC20
 from contracts.dexes.jedi.IJediPair import IJediPair
