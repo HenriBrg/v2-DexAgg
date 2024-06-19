@@ -1,4 +1,4 @@
-ODAx is an on-chain DEX Aggregator on Starknet Goerli.  
+v2DexAgg x is an on-chain DEX Aggregator on Starknet Goerli.  
 
 ![alt text](draft.excalidraw.png "Schema")
 
@@ -12,11 +12,11 @@ Since there is not many DEXes with available documentation for the moment on Sta
 Mersona
 Telegram: MersonaX  
   
-### Why ODAx ?  
+### Why v2DexAgg ?  
   
 We have made this project for this hackathon because we believe on-chain DEX Aggregator is needed in the crypto ecosystem. Using centralized is relying on centralized entities and it's may not be as secured as a decentralized solution. Some DEX Aggregators solutions exists in EVM compatible chain like the one done by Yield Yak team on Avalanche. But with such application on EVM compatible chains you are quickly limited by the computation cost itself. This is not the case with StarkNet and Cairo.  
   
-### How ODAx ?  
+### How v2DexAgg ?  
   
 For this hackathon since we are limited in time we only implemented an MVP of this DEX Aggregator. We are comparing prices we could get through our two DEX (JEDISWAP and STARKSWAP) and then perform the swap on the cheapiest DEX.  
   
